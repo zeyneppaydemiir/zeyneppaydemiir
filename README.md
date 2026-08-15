@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @zeyneppaydemiir
-- 👀 I’m interested in software
-- 🌱 I’m currently learning python, java
-- 💞️ I’m looking to collaborate on software development 
-- 📫 How to reach me zeynepp-aydemiir on linkedin and mail: www.linkedin.com/in/zeynep-aydemirr and zeynepqx@gmail.com
+# Hi, I'm Zeynep 👋
 
-<!---
-zeyneppaydemiir/zeyneppaydemiir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Software Engineering Graduate
+💻 Software Engineer | Full-Stack Developer
+📊 Interested in Data Analytics & AI
+
+**Tech Stack:**
+Python • Java • C# • JavaScript • React • Node.js • Express.js • PostgreSQL • MySQL • Prisma • Docker • Git
+
+🚀 Building projects focused on **software engineering, ERP systems, data analytics, and AI**.
